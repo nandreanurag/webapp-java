@@ -28,3 +28,5 @@ Assignment 2
    
 Cmd to Import ssl certificate
 aws acm import-certificate --certificate fileb:path --certificate-chain fileb://path --private-key fileb://private.pem --profile demo
+
+
